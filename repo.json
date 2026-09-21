@@ -1,15 +1,15 @@
 {
-  "name": "Matthieu Duga's Repository",
-  "identifier": "fr.matthieuduga.altstore",
+  "name": "Matthieu DUGA",
   "subtitle": "Practical tools and personal projects.",
   "description": "A collection of custom applications and utilities I initially built to solve my own daily challenges. I am sharing them here in case they can be helpful to other developers and users.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://portfolio.matthieuduga.fr",
+  "patreonURL": "",
   "tintColor": "#2563EB",
-  "iconURL": "https://ui-avatars.com/api/?name=Matthieu+Duga&background=2563EB&color=fff&size=512&font-size=0.4&bold=true",
-  "headerURL": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop",
   "featuredApps": [
     "com.spotify.client"
   ],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
   "apps": [
     {
       "name": "Spotify",
@@ -21,15 +21,19 @@
       "iconURL": "https://i.imgur.com/n1EjlgS.png",
       "tintColor": "#04e154",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/d0/30/0dd030f6-6f35-e7b1-dd0c-2f7b2cb5ef29/IOS_-_6.5_-_S01_-_fr-FR.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/27/29/d227295b-8d20-d037-c178-5bf2eac3781e/IOS_-_6.5_-_S02_-_fr-FR.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/09/f1/5309f10e-3739-68eb-682d-a789e928cb7d/IOS_-_6.5_-_S03_-_U005bFrench__U0028France_U0029_U005d.png/460x996bb.webp"
+      ],
       "versions": [
         {
-          "downloadURL": "https://matthieuduga.github.io/ios-apps/apps/spotify.ipa",
-          "size": 124900000,
           "version": "9.1.78",
-          "buildVersion": null,
           "date": "2026-09-21T17:42:00+02:00",
           "localizedDescription": "Initial import of version 9.1.78.",
+          "downloadURL": "https://matthieuduga.github.io/ios-apps/apps/spotify.ipa",
+          "size": 124900000,
+          "buildVersion": null,
           "minOSVersion": "15.0"
         }
       ],
